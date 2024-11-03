@@ -28,7 +28,7 @@ The dataset used includes:
 ## Installation Instructions
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/CNSS-Salary-Analysis-2022.git
+git clone https://github.com/mohannadtazi/CNSS-Salary-Analysis-2022.git
 ```
 2. Open the Power BI file in Power BI Desktop.
 
